@@ -18,3 +18,11 @@ As you work through this exercise, write down anything that you needed to look u
 - Inserting with .add(index, value)
 - Sorting with Collections.sort()
 - Ilerating with for and for-each loop
+
+## ArrayPractice
+
+- Creating an array with a fixed size
+- Assigning values to array elements
+- Getting array length with .length
+- ilerating with a for loop
+- ilerating with a for-each loop
