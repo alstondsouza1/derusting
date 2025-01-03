@@ -10,3 +10,11 @@ As you work through this exercise, write down anything that you needed to look u
 - Printing things with System.out.println
 
 
+## ListPractice
+
+- Creating an ArrayList
+- Using .add(), .get(), and .set()
+- Checking with .contains()
+- Inserting with .add(index, value)
+- Sorting with Collections.sort()
+- Ilerating with for and for-each loop
