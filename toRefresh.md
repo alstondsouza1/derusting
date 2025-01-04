@@ -13,10 +13,10 @@ As you work through this exercise, write down anything that you needed to look u
 ## ListPractice
 
 - Creating an ArrayList
-- Using .add(), .get(), and .set()
-- Checking with .contains()
+- Using .add(), .get, and .set
+- Checking with .contains
 - Inserting with .add(index, value)
-- Sorting with Collections.sort()
+- Sorting with Collections.sort
 - Ilerating with for and for-each loop
 
 ## ArrayPractice
@@ -26,3 +26,13 @@ As you work through this exercise, write down anything that you needed to look u
 - Getting array length with .length
 - ilerating with a for loop
 - ilerating with a for-each loop
+
+## StringPractice
+
+- String creation and length
+- Concatenation with + or +=
+- Accessing with .charAt
+- Checking with .contains
+- Iterating with toChartArray
+- Joining with String.join
+- Comparing with .equals
