@@ -36,3 +36,12 @@ As you work through this exercise, write down anything that you needed to look u
 - Iterating with toChartArray
 - Joining with String.join
 - Comparing with .equals
+
+## SetPractice
+
+- Creating a HashSet
+- Adding elements with .add
+- Checking with .contains
+- Remoing elements with .remove
+- Getting size with .size
+- Iterating with a for-each loop
