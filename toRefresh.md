@@ -55,3 +55,11 @@ As you work through this exercise, write down anything that you needed to look u
 - Updating values
 - Getting sizes
 - Iterating keys, values, entries
+
+## PersonPractice
+
+- Instance variables
+- Constructor
+- toString method
+- birthYear method
+- Creating and using objects
