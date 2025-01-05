@@ -45,3 +45,13 @@ As you work through this exercise, write down anything that you needed to look u
 - Remoing elements with .remove
 - Getting size with .size
 - Iterating with a for-each loop
+
+## MapPractice
+
+- Creating a Hashmap
+- Additing with .put
+- Accessing with .get
+- Checking keys/values
+- Updating values
+- Getting sizes
+- Iterating keys, values, entries
